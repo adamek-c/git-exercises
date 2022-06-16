@@ -27,4 +27,15 @@
 - To copy use command Ctrl + Insert
 - To paste use command Shift + Insert
 
-- To clean gitbash use command Ctrl + l
+- To clean gitbash use command Ctrl + L
+
+#### Branch :
+
+- git branch - list all of the branches in your repository local machine
+- git branch -r - list of the branches in remote server
+- git branch -a - branch one of github
+- git branch create_new_branch - create new branch 
+- git branch checkout  create_new_branch - switch new branch
+- git checkout -  - switch previous one
+- git branch -b create_new_branch - create new brach and switch 
+- git branch -d create_new_branch - delete branch
