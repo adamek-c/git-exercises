@@ -27,4 +27,4 @@
 - To copy use command Ctrl + Insert
 - To paste use command Shift + Insert
 
-- To clean gitbash use command Ctrl + l
+- To clean gitbash use command Ctrl + L
